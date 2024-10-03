@@ -27,6 +27,7 @@ The dataset provides the following land-cover classes for segmentation:
 5. Agriculture
 6. Barren Land
 7. Background
+   
 ![Image_land-cove](https://lh3.googleusercontent.com/d/14pNjZv0iNxqpREgK4NluwjA1rg25qTme=w1000-h1000)
 
 ### Usage
