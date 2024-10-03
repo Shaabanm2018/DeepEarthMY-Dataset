@@ -34,6 +34,9 @@ The dataset provides the following land-cover classes for segmentation:
 
 You can use this dataset for various computer vision tasks, particularly for **semantic segmentation**. The dataset can be loaded into deep learning frameworks like **PyTorch** or **TensorFlow** for training models such as UNet, DeepLabV3, or UNetFormer.
 
+### Download Link
+https://zenodo.org/records/13870764
+
 ### Example Code
 
 Here’s a basic example to load the images using Python:
