@@ -2,7 +2,7 @@
 
 **DeepEarthMY** is a remote sensing dataset for tropical land-cover segmentation in Malaysia. The dataset contains 4007 PNG images, each around 828 KB in size, representing different land-cover types including roads, buildings, water, forests, agriculture, barren land, and background. ttt
 
-![Image Description](https://lh3.googleusercontent.com/d/1gU1RqJRdi6K4U2uqGwbjjOo8cYzq2yxb=w1000-h1000)
+![Image Distribution](https://lh3.googleusercontent.com/d/1gU1RqJRdi6K4U2uqGwbjjOo8cYzq2yxb=w1000-h1000)
 ![Image Description](https://lh3.googleusercontent.com/d/1kSM7zfd5BAgEr_kr94dTN5BEWN0mh-rV=w1000-h1000)
 
 ## Dataset Overview
@@ -27,8 +27,7 @@ The dataset provides the following land-cover classes for segmentation:
 5. Agriculture
 6. Barren Land
 7. Background
-
-![land-cover](https://github.com/user-attachments/assets/b3fec3f0-cc62-43f1-ba32-3bb111fdad10)
+![Image_land-cove](https://lh3.googleusercontent.com/d/14pNjZv0iNxqpREgK4NluwjA1rg25qTme=w1000-h1000)
 
 ### Usage
 
