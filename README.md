@@ -1,6 +1,7 @@
 # DeepEarthMY Dataset
 
 **DeepEarthMY** is a remote sensing dataset for tropical land-cover segmentation in Malaysia. The dataset contains 4007 PNG images, each around 828 KB in size, representing different land-cover types including roads, buildings, water, forests, agriculture, barren land, and background.
+
 ![DeepEarthMY-Distribution](https://github.com/user-attachments/assets/1504bf51-ea7f-4b99-a174-d0d182cdb1a3)
 ![DeepEarthMY-statistics](https://github.com/user-attachments/assets/2c711a5f-2b37-4f48-9ad3-402d5de0b9fa)
 
